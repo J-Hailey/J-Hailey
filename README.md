@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @J-Hailey
+- 👀 I’m interested in programming, web-apps, gaming, and etc.
+- 🌱 I’m currently learning more about Python
+- 💞️ I’m looking to collaborate on website projects, or Android applications
+- 📫 How to reach me: haileyjov@gmail.com
